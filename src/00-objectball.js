@@ -338,7 +338,7 @@ function playerWithLongestName(){
 }
 
 
-/*******************************************SUPER BONUS QUESTIONS*************************************************/
+/*******************************************SUPER BONUS QUESTION*************************************************/
 
 //Returns true if the player with the longest name had the most steals.
 function doesLongNameStealATon(){
